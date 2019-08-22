@@ -24,6 +24,7 @@ namespace 工件界面Demo
         double[] arr = { 1.0, 2.0, 0.6, 1.0, 1.0, 2.0, 0.9, 1.2, 1.5, 0.4, 1.4, 1.8, 1.2, 1.9, 0.7 };
         double[] localarr = { 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 };
         string code = "CS00001";
+        string test = "test1";
         #endregion
 
         delegate void btngate();
